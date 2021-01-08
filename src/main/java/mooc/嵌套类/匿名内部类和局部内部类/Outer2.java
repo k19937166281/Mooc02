@@ -9,7 +9,7 @@ public class Outer2 {
         String name = "efg";
 
         //局部内部类
-        class Inner2111111{
+        class Inner2111111 implements Runnable {
             final static int a = 1;
             //error
             // static int b = 1;
@@ -18,6 +18,11 @@ public class Outer2 {
                 System.out.println(name);
                 // 普通 方法 对应 普通变量 对应 普通 调用方式
                 System.out.println(Outer2.this.name2);
+            }
+
+            @Override
+            public void run() {
+
             }
         }
         Inner2111111 inner2 = new Inner2111111();
