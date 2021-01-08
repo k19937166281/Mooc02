@@ -1,1 +1,0 @@
-例如 application.properties 之类的文件本质上 是一个 java.util.properties 类
