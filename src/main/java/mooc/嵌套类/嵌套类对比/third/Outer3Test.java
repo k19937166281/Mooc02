@@ -1,6 +1,6 @@
-package mooc.Ç¶Ì×Àà.Ç¶Ì×Àà¶Ô±È.third;
+package mooc.åµŒå¥—ç±».åµŒå¥—ç±»å¯¹æ¯”.third;
 
-import mooc.Ç¶Ì×Àà.Ç¶Ì×Àà¶Ô±È.comparison.Outer3;
+import mooc.åµŒå¥—ç±».åµŒå¥—ç±»å¯¹æ¯”.comparison.Outer3;
 
 public class Outer3Test extends Outer3 {
 

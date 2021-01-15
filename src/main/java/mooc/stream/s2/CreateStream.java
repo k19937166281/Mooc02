@@ -1,7 +1,5 @@
 package mooc.stream.s2;
 
-import com.wgw.EverytimeuseApplication;
-
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;

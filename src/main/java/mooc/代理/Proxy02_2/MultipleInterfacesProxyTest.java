@@ -19,6 +19,6 @@ public class MultipleInterfacesProxyTest {
 
         System.out.println(Proxy.isProxyClass(proxyClass));
         Proxy p = (Proxy)proxy;
-        System.out.println(p.get);
+       // System.out.println(p.get);
     }
 }
